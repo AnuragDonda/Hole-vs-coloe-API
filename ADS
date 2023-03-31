@@ -1,4 +1,9 @@
 {
+  "mode": "",
+  "bannerID": "",
+  "interstitialID": "",
+  "rewardID": "",
+  "appOpenID": "",
   "inter": "20",
   "ban": "10"
 }
