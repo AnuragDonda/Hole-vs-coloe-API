@@ -1,7 +1,7 @@
 {
   "mode": "hello",
   "bannerID": "Good Morning",
-  "interstitialID": "",
+  "interstitialID": "Hello",
   "rewardID": "",
   "appOpenID": "",
   "inter": "20",
