@@ -1,9 +1,7 @@
 {
-  "mode": "hello",
-  "bannerID": "Good Morning",
-  "interstitialID": "Hello",
-  "rewardID": "",
-  "appOpenID": "",
-  "inter": "20",
-  "ban": "12"
+  "status": "1",
+  "google_bannerID": "ca-app-pub-8549513295169442/4635591801",
+  "google_interstitialID": "ca-app-pub-8549513295169442/2975025776",
+  "google_rewardID": "ca-app-pub-8549513295169442/3462110935",
+  "google_appOpenID": "ca-app-pub-8549513295169442/8035780767",
 }
