@@ -5,5 +5,5 @@
   "rewardID": "",
   "appOpenID": "",
   "inter": "20",
-  "ban": "10"
+  "ban": "12"
 }
